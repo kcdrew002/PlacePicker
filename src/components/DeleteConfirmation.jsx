@@ -31,7 +31,7 @@ export default function DeleteConfirmation({ onConfirm, onCancel }) {
           Yes
         </button>
       </div>
-      <ProgressBar timer={TIMERdsdds} />
+      <ProgressBar timer={TIMER} />
     </div>
   );
 }
